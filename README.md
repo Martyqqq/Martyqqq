@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-streak-stats.demolab.com?user=Martyqqq&hide_border=true&border_radius=10&background=F5E1C0&stroke=86092C&ring=86092C&sideLabels=574038&dates=574038&currStreakNum=574038&currStreakLabel=574038&fire=574038&sideNums=574038" alt="Marty's Streak Stats">
+<img src="https://streak-stats.demolab.com?user=Martyqqq&hide_border=true&border_radius=10&background=F5E1C0&stroke=86092C&ring=86092C&sideLabels=574038&dates=574038&currStreakNum=574038&currStreakLabel=574038&fire=574038&sideNums=574038" alt="Marty's Streak Stats">
 </p>
 
 <p align="center">

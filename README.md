@@ -66,8 +66,10 @@ improve  → automate, document, and make the next response faster
 **Security Operations**
 
 ![Sysinternals Suite](https://img.shields.io/badge/Sysinternals_Suite-0D1117?style=flat-square&logo=windows11&logoColor=58A6FF)
+![Nessus](https://img.shields.io/badge/Nessus-0D1117?style=flat-square&logo=nessus&logoColor=58A6FF)
 ![Splunk](https://img.shields.io/badge/Splunk-0D1117?style=flat-square&logo=splunk&logoColor=58A6FF)
 ![Elastic](https://img.shields.io/badge/Elastic_Stack-0D1117?style=flat-square&logo=elasticstack&logoColor=58A6FF)
+![Wazuh](https://img.shields.io/badge/Wazuh-0D1117?style=flat-square&logo=wazuh&logoColor=58A6FF)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=58A6FF)
 
 **Systems & Networking**

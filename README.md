@@ -4,11 +4,13 @@
   <br />
   <a href="https://martinqj.com" target="_blank" rel="noopener noreferrer"><strong>Portfolio</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://gallery.martinqj.com" target="_blank" rel="noopener noreferrer"><strong>Photography</strong></a>
+  <a href="https://linkedin.com/in/martin-quintana" target="_blank" rel="noopener noreferrer"><strong>LinkedIn</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:martinqjsa@gmail.com"><strong>Email</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/martin-quintana" target="_blank" rel="noopener noreferrer"><strong>LinkedIn</strong></a>
+  <a href="https://gallery.martinqj.com" target="_blank" rel="noopener noreferrer"><strong>Photography</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://touchline.martinqj.com" target="_blank" rel="noopener noreferrer"><strong>Football Dashboard</strong></a>
 </div>
 
 ## Security-minded. Systems-grounded.

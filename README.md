@@ -22,8 +22,11 @@ My work spans Active Directory, network and system security, SIEM operations, Po
 ```text
 FOCUS       security operations · systems administration · hardware infrastructure
 BUILDING    challenging labs, practical tools, and clear technical documentation
-STUDYING    CompTIA Network+ (N10-009)
+STUDYING    CompTIA Security+ (SY0-701)
 ```
+
+## Certifications
+**CompTIA Network+ (N10-009)**
 
 ## My Workflow
 

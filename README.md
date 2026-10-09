@@ -26,7 +26,15 @@ STUDYING    CompTIA Security+ (SY0-701)
 ```
 
 ## Certifications
-**CompTIA Network+ (N10-009)**
+
+<p align="center">
+  <a href="YOUR-CREDENTIAL-URL">
+    <img
+      src="https://img.shields.io/badge/CompTIA-Network+-58A6FF?style=plastic&logo=comptia&logoColor=58A6FF&labelColor=0D1117"
+      alt="CompTIA Certification"
+    />
+  </a>
+</p>
 
 ## My Workflow
 
